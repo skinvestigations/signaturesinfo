@@ -6,9 +6,11 @@ Signature Files for Customers
 
 This repository has signatures and files to help customer protect networks. Files are available for the following systems:
 
-Maltrail - https://github.com/stamparm/maltrail
-Pi-Hole - https://pi-hole.net/
-Bind9 - DNS Server (RPZ Format)
-Wazuh - Wazuh SIEM
-Various - Text formats may be compatible with other sensors and systems
+- Maltrail - https://github.com/stamparm/maltrail
+- Pi-Hole - https://pi-hole.net/
+- Bind9 - DNS Server (RPZ Format)
+- Wazuh - Wazuh SIEM
+- Various - Text formats may be compatible with other sensors and systems
+
+
 Note: To request access to this repository please email your customer service representative
