@@ -2,7 +2,7 @@
 
 Signature Information is available from your customer service representative. There is a non public subscriber project called (https://github.com/skinvestigations/signatures) that you can request to gain access to the signatures that are available.
 
-Signature Files for Customers
+Signature Files for Customers (Commercial Service)
 
 This repository has signatures and files to help customer protect networks. Files are available for the following systems:
 
